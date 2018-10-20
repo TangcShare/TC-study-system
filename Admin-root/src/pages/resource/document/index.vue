@@ -1,0 +1,72 @@
+<template>
+  <d2-container>
+    <template slot="header">文档管理</template>
+    <el-table
+            :data="tableData"
+            border
+            style="width: 100%">
+      <el-table-column
+              prop="date"
+              label="ID"
+              width="180">
+      </el-table-column>
+      <el-table-column
+              prop="name"
+              label="标题"
+              width="180">
+      </el-table-column>
+      <el-table-column
+              prop="address"
+              label="简介"
+              width="180">
+      </el-table-column>
+      <el-table-column
+              prop="address"
+              label="内容"
+              width="180">
+      </el-table-column>
+      <el-table-column
+              label="操作"
+              width="120">
+        <template slot-scope="scope">
+          <el-button
+                  @click.native.prevent="deleteRow(scope.$index, tableData)"
+                  type="danger"
+                  size="medium">
+            删除
+          </el-button>
+        </template>
+      </el-table-column>
+    </el-table>
+    <el-button
+            :style="{marginTop:'10px'}"
+            @click.native.prevent="addRow()"
+            type="primary"
+            size="medium">
+      增加
+    </el-button>
+    <!--<template slot="footer">footer</template>-->
+  </d2-container>
+</template>
+
+<script>
+export default {
+  name: 'document',
+  methods: {
+       deleteRow(index, rows) {
+            rows.splice(index, 1);
+        },
+      addRow() {
+
+      }
+    },
+  data () {
+     return {
+            tableData: []
+        }
+    },
+    created() {
+
+    }
+}
+</script>
