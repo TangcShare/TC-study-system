@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.am-tabs-default-bar-top .am-tabs-default-bar-content, .am-tabs-default-bar-bottom .am-tabs-default-bar-content {
+    width: 60%;
+}
+
+.addIcon{
+    position: absolute;
+    bottom:15px;
+    right: 15px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #3b86ff;
+    border-radius: 50%;
+    font-size: large;
+    text-align: center;
+}
+.popup-list .am-list-body {
+    height: 210px;
+    overflow: auto;
+}
+

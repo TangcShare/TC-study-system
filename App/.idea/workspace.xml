@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87439970-f5e8-4834-8b72-058000280d81" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="documentIndex.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/containers/course/documentIndex.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="127" column="10" lean-forward="true" selection-start-line="127" selection-start-column="10" selection-end-line="127" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sectionIDs</find>
+      <find>data</find>
+      <find>$sql</find>
+      <find>SimpleProperties</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/routes.js" />
+        <option value="$PROJECT_DIR$/src/containers/user/index.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/community/index.jsx" />
+        <option value="$PROJECT_DIR$/src/components/tabBar/index.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/course/index.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/course/videoIndex.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/course/documentDetail.jsx" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/containers/course/courseListIndex.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/course/testIndex.jsx" />
+        <option value="$PROJECT_DIR$/study-server/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/study-server/conf/db.js" />
+        <option value="$PROJECT_DIR$/study-server/util/util.js" />
+        <option value="$PROJECT_DIR$/study-server/util/string.js" />
+        <option value="$PROJECT_DIR$/study-server/routes/users.js" />
+        <option value="$PROJECT_DIR$/study-server/routes/document.js" />
+        <option value="$PROJECT_DIR$/study-server/package.json" />
+        <option value="$PROJECT_DIR$/study-server/dao/documentSqlMapping.js" />
+        <option value="$PROJECT_DIR$/study-server/dao/videoSqlMapping.js" />
+        <option value="$PROJECT_DIR$/study-server/dao/videoDao.js" />
+        <option value="$PROJECT_DIR$/study-server/dao/documentDao.js" />
+        <option value="$PROJECT_DIR$/study-server/routes/documents.js" />
+        <option value="$PROJECT_DIR$/study-server/routes/videos.js" />
+        <option value="$PROJECT_DIR$/study-server/dao/userSqlMapping.js" />
+        <option value="$PROJECT_DIR$/study-server/dao/userDao.js" />
+        <option value="$PROJECT_DIR$/study-server/dao/collectSqlMapping.js" />
+        <option value="$PROJECT_DIR$/study-server/dao/collectDao.js" />
+        <option value="$PROJECT_DIR$/study-server/dao/noteDao.js" />
+        <option value="$PROJECT_DIR$/study-server/dao/noteSqlMapping.js" />
+        <option value="$PROJECT_DIR$/study-server/dao/testSqlMapping.js" />
+        <option value="$PROJECT_DIR$/study-server/dao/testDao.js" />
+        <option value="$PROJECT_DIR$/study-server/routes/collects.js" />
+        <option value="$PROJECT_DIR$/study-server/routes/notes.js" />
+        <option value="$PROJECT_DIR$/study-server/routes/tests.js" />
+        <option value="$PROJECT_DIR$/study-server/app.js" />
+        <option value="$PROJECT_DIR$/src/1111111.js" />
+        <option value="$PROJECT_DIR$/server/app.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/containers/course/documentIndex.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/server/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="61" />
+    <option name="y" value="29" />
+    <option name="width" value="1807" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SYS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SYS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SYS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SYS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SYS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SYS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SYS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SYS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SYS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SYS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ADMIN" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="1111111.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="1111111.js" working-dir="$PROJECT_DIR$/src" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.1111111.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87439970-f5e8-4834-8b72-058000280d81" name="Default" comment="" />
+      <created>1537586397450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537586397450</updated>
+      <workItem from="1537586398729" duration="3817000" />
+      <workItem from="1537751917132" duration="7013000" />
+      <workItem from="1537776046570" duration="800000" />
+      <workItem from="1537795679020" duration="988000" />
+      <workItem from="1537881605906" duration="1333000" />
+      <workItem from="1537926839788" duration="4431000" />
+      <workItem from="1538148375364" duration="33000" />
+      <workItem from="1538642360835" duration="104000" />
+      <workItem from="1538882048784" duration="2552000" />
+      <workItem from="1539269588350" duration="73000" />
+      <workItem from="1539480858661" duration="1511000" />
+      <workItem from="1539482738589" duration="1790000" />
+      <workItem from="1539484996644" duration="7508000" />
+      <workItem from="1539500713166" duration="11580000" />
+      <workItem from="1539568451303" duration="2148000" />
+      <workItem from="1539653401562" duration="1839000" />
+      <workItem from="1539675069624" duration="2828000" />
+      <workItem from="1539781042476" duration="4662000" />
+      <workItem from="1539999959711" duration="867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56191000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="61" y="29" width="1807" height="1028" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26519024" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32947975" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34913296" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/containers/course/testIndex.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/course/courseListIndex.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/course/documentIndex.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/user/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/course/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3696">
+          <caret line="139" column="22" lean-forward="true" selection-start-line="139" selection-start-column="15" selection-end-line="139" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/community/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1148">
+          <caret line="43" column="24" selection-end-line="50" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tabBar/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tabBar/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="61" column="49" lean-forward="true" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/user/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-823">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/community/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/course/videoIndex.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3472">
+          <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/course/tuijianDetail.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="20" column="25" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/course/documentDetail.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/course/studyIndex.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/containers/course/testIndex.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="189" column="20" selection-start-line="189" selection-start-column="20" selection-end-line="189" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-server/public/stylesheets/style.css" />
+    <entry file="file://$PROJECT_DIR$/study-server/node_modules/mysql/index.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/util/string.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/util/util.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-server/routes/index.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/conf/db.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/dao/videoSqlMapping.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/dao/videoDao.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/routes/videos.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/routes/users.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/dao/userDao.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/dao/userSqlMapping.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/dao/documentSqlMapping.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/dao/documentDao.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/dao/collectDao.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/dao/noteDao.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/dao/noteSqlMapping.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/dao/testSqlMapping.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/dao/testDao.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/routes/collects.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/routes/documents.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/routes/notes.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/routes/tests.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/app.js" />
+    <entry file="file://$PROJECT_DIR$/study-server/package.json" />
+    <entry file="file://$PROJECT_DIR$/src/containers/course/courseListIndex.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-355">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-server/dao/collectSqlMapping.js" />
+    <entry file="file://$PROJECT_DIR$/src/1111111.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/course/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4050">
+          <caret line="157" column="42" selection-start-line="157" selection-start-column="42" selection-end-line="157" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="41" column="6" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="41" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/course/documentIndex.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="127" column="10" lean-forward="true" selection-start-line="127" selection-start-column="10" selection-end-line="127" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

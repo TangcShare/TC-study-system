@@ -1,0 +1,28 @@
+.flex-container {
+    margin: 0 15px;
+}
+.flex-container .inline {
+    width: 80px!important;
+    margin: 9px 9px 9px 0;
+}
+.flex-container .small {
+    height: 20px!important;
+    line-height: 20px!important;
+}
+.sub-title {
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 30px 0 18px 0;
+}
+.sub-title::before {
+    /*怎么加图标*/
+}
+.placeholder {
+    background-color: #3b86ff;
+    color: white;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    width: 100%;
+}

@@ -1,0 +1,14 @@
+.sc-example {
+    padding-bottom: 13px;
+}
+.sub-title {
+    color: #888;
+    font-size: 14px;
+    padding: 30px 0 18px 0;
+    margin: 0;
+}
+.am-wingblank.am-wingblank-lg {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
